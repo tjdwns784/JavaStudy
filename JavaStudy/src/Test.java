@@ -1,5 +1,5 @@
 
-public class Test {
+public class Test {  
 	// 주석 - comment
 	// Shift + Ctrl + C
 	// main 입력 후 Ctrl + Space -> main 선택
